@@ -1,7 +1,7 @@
 ### Olá Eu sou o Igor
 
 - 🔭 Atualmente sou Jovem Aprendiz da Neoenergia Pernambuco
-- 🌱 Estou estudando Engenharia de Software
+- 🌱 Estou estudando Análise e desenvolvimento de sistemas
 - 🖥️ Estudando Progamação menos de um mês
 
 <div align="center">
