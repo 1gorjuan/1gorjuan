@@ -1,18 +1,31 @@
-<div>
-  <p>Olá! Meu nome é Igor Juan, tenho 19 anos e sou estagiário da Neoenergia Pernambuco. Atualmente, estou no primeiro período da faculdade de Análise e Desenvolvimento de Sistemas. </p>
-  <p>Busco constantemente adquirir novos conhecimentos e desenvolver minhas habilidades para alcançar meus objetivos profissionais. <p>
-</div>
-<div>
-  <a href="https://www.instagram.com/igusyx" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://t.me/syx2469" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://twitter.com/1gorjuan" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/igor-rocha-5b3700248/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
+<div> 
+  <h2>Minhas Habilidades</h2> 
+  <ul> 
+    <li>Conhecimento em linguagem de programação C;</li> 
+    <li>Experiência em HTML, CSS e Javascript;</li> 
+    <li>Conhecimentos básicos em Frameworks como Bootstrap e React Native;</li> 
+    <li>Conhecimentos básicos em banco de dados MySQL;</li> 
+    <li>Experiência em desenvolvimento de projetos Web responsivos;</li> 
+    <li>Conhecimentos em versionamento de código utilizando o Git;</li> 
+    <li>Capacidade de trabalhar em equipe e de forma colaborativa;</li> 
+  </ul> 
+</div> 
+<div> 
+  <h2>Projetos</h2> 
+  <p>Aqui estão alguns projetos que desenvolvi ou participei:</p> 
+  <ul> 
+    <li><a href="https://github.com/syxzera/SimpleTodoList" target="_blank">Simple Todo List - Aplicação Web para gerenciamento de tarefas em lista feita em React Native;</a></li> 
+    <li><a href="https://github.com/syxzera/pacman-pygame" target="_blank">Pacman Pygame - Implementação do jogo clássico Pac-Man utilizando o framework Pygame em Python.</a></li> 
+  </ul> 
+</div> 
+<div> 
+  <h2>Experiência Profissional</h2> 
+  <p>Estou atualmente no meu primeiro estágio na Neoenergia Pernambuco, onde faço parte da equipe de desenvolvimento de sistemas, onde mantenho e implemento novas funcionalidades em aplicação Web e Mobile que são utilizadas internamente na empresa. Além disso, trabalho em conjunto com outras equipes e setores para identificar e solucionar problemas na rede.</p> 
+</div> 
+<div> 
+  <h2>Formação</h2> 
+  <ul> 
+    <li>Análise e Desenvolvimento de Sistemas - Cursando</li> 
+    <li>Técnico em Informática - Concluído</li> 
+  </ul> 
+</div> 
