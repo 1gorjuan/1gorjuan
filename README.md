@@ -28,3 +28,10 @@
     <li>Técnico em Informática - Cursando</li> 
   </ul> 
 </div> 
+  <div> 
+  <h2>Redes Sociais/Contato</h2> 
+  <a href="https://www.instagram.com/1gorjuan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:igor51juan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/igor-rocha-5b3700248" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+  
