@@ -1,3 +1,7 @@
+<h1>Olá!</h1>
+<div>
+  <h3> Me chamo igor Juan e eu sou desenvolvedor Web.</h3>
+</div>
 <div> 
   <h2>Minhas Habilidades</h2> 
   <ul> 
@@ -9,6 +13,10 @@
     <li>Capacidade de trabalhar em equipe e de forma colaborativa;</li> 
   </ul> 
 </div> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&username=1gorjuan" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=true&username=1gorjuan" height="150" alt="languages graph"  />
+</div>
 <div> 
   <h2>Projetos</h2> 
   <p>Aqui estão alguns projetos que desenvolvi ou participei:</p> 
