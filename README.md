@@ -33,7 +33,7 @@
   <h2>Formação</h2> 
   <ul> 
     <li>Análise e Desenvolvimento de Sistemas - Cursando</li> 
-    <li>Técnico em Informática - Cursando</li> 
+    <li>Técnico em Eletrotécnica - Cursando</li> 
   </ul> 
 </div> 
   <div> 
