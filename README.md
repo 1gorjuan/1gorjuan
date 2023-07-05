@@ -18,8 +18,8 @@
   </ul> 
 </div> 
 <div> 
-  <h2>Experiência Profissional</h2> 
-  <p>Estou atualmente no meu primeiro estágio na Neoenergia Pernambuco, onde atuo pela área de eletrotécnico, contudo, faço algumas aplicações de desenvolvimento de sistemas, onde implemento novas funcionalidades em aplicação Web e com uso de python que são utilizadas internamente na empresa. Além disso, trabalho em conjunto com outras equipes e setores para identificar possibilidades de automação de sistemas.</p> 
+  <h2>Experiência Pessoal</h2> 
+  <p>Profissional em estágio de eletrotécnica na Neoenergia Pernambuco, com experiência em desenvolvimento de sistemas e automação interna. Aplico conhecimentos em programação (Python) para implementar funcionalidades em aplicativos web. Colaboro com outras equipes para identificar oportunidades de automação.</p> 
 </div> 
 <div> 
   <h2>Formação</h2> 
