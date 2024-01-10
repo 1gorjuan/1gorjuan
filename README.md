@@ -23,6 +23,7 @@
   <ul> 
     <li><a href="https://github.com/1gorjuan/Pokedex.git" target="_blank"> Pokedex - Uma página contendo uma pokedex para fazer consultas sobre os pokemons;</a></li> 
     <li><a href="https://github.com/1gorjuan/Tela-de-login-com-HTML-e-CSS.git" target="_blank"> Tela de Login - Uma página de login com formulário de e-mail e senha, opção de login por mídia social, link para recuperação de senha e chamada à ação para criação de conta, com design responsivo e uso de ícones do Font Awesome e arquivo CSS separado.
+     <li><a href="https://github.com/1gorjuan/Compactador-De-Fotos"> Robozinho IPP - Programa desenvolvido para automatizar o processo de redução de imagens, facilitando as tratativas internas da empresa em que trabalho.  </li> 
   </ul> 
 </div> 
 <div> 
