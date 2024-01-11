@@ -5,8 +5,8 @@
 <div> 
   <h2>Minhas Habilidades</h2> 
   <ul> 
-    <li>Conhecimento em linguagem de programação Python;</li> 
-    <li>Experiência em HTML, CSS e Javascript;</li> 
+    <li>Conhecimento em Redes, Pentest, Linux;</li> 
+    <li>Experiência em Python;</li> 
     <li>Conhecimentos básicos em banco de dados MySQL;</li> 
     <li>Experiência em desenvolvimento de projetos Web responsivos;</li> 
     <li>Conhecimentos em versionamento de código utilizando o Git;</li> 
