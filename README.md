@@ -1,46 +1,62 @@
-<h1>Olá!</h1>
-<div>
-  <h3> Me chamo igor Juan e eu sou desenvolvedor Web.</h3>
-</div>
-<div> 
-  <h2>Minhas Habilidades</h2> 
-  <ul> 
-    <li>Conhecimento em Redes, Pentest, Linux;</li> 
-    <li>Experiência em Python;</li> 
-    <li>Conhecimentos básicos em banco de dados MySQL;</li> 
-    <li>Experiência em desenvolvimento de projetos Web responsivos;</li> 
-    <li>Conhecimentos em versionamento de código utilizando o Git;</li> 
-    <li>Capacidade de trabalhar em equipe e de forma colaborativa;</li> 
-  </ul> 
-</div> 
+# 👋 Olá, eu sou o Igor Juan!
+
+🎯 **Formado em Análise e Desenvolvimento de Sistemas, Estudante de Engenharia Eletrica**  
+⚡ Técnico em Eletrotécnica  
+💻 Apaixonado por tecnologia, segurança e desenvolvimento
+
+---
+
+## 🚀 Sobre mim
+Sou um profissional em formação com experiência em desenvolvimento de soluções e automação de processos.  
+Atualmente atuo com foco em **Python, redes e desenvolvimento web**, sempre buscando evoluir tecnicamente e colaborar em projetos.
+
+---
+
+## 🛠️ Habilidades
+
+- 🔐 Redes, Pentest e Linux  
+- 🐍 Programação em Python  
+- 🗄️ MySQL (nível básico)  
+- 🌐 Desenvolvimento Web Responsivo  
+- 🔄 Versionamento com Git e GitHub  
+- 🤝 Trabalho em equipe e colaboração  
+---
+
+## 💼 Experiência
+
+Atuo como estagiário em Eletrotécnica na **Neoenergia Pernambuco**, onde:
+
+- Desenvolvo soluções internas com Python  
+- Automatizo processos operacionais  
+- Colaboro com equipes para otimização de tarefas  
+
+---
+
+## 🎓 Formação
+
+- 📘 Análise e Desenvolvimento de Sistemas *(em andamento)*  
+- ⚡ Técnico em Eletrotécnica *(em andamento)*  
+
+---
+
+## 📬 Contato
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&username=1gorjuan" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=true&username=1gorjuan" height="150" alt="languages graph"  />
+
+<a href="https://www.instagram.com/1gorjuan">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:igor51juan@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/igor-rocha-5b3700248">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
-<div> 
-  <h2>Projetos</h2> 
-  <p>Aqui estão alguns projetos que desenvolvi ou participei:</p> 
-  <ul> 
-    <li><a href="https://github.com/1gorjuan/Pokedex.git" target="_blank"> Pokedex - Uma página contendo uma pokedex para fazer consultas sobre os pokemons;</a></li> 
-    <li><a href="https://github.com/1gorjuan/Tela-de-login-com-HTML-e-CSS.git" target="_blank"> Tela de Login - Uma página de login com formulário de e-mail e senha, opção de login por mídia social, link para recuperação de senha e chamada à ação para criação de conta, com design responsivo e uso de ícones do Font Awesome e arquivo CSS separado.
-     <li><a href="https://github.com/1gorjuan/Compactador-De-Fotos"> Robozinho IPP - Programa desenvolvido para automatizar o processo de redução de imagens, facilitando as tratativas internas da empresa em que trabalho.  </li> 
-  </ul> 
-</div> 
-<div> 
-  <h2>Experiência Pessoal</h2> 
-  <p>Profissional em estágio de eletrotécnica na Neoenergia Pernambuco, com experiência em desenvolvimento de sistemas e automação interna. Aplico conhecimentos em programação (Python) para implementar funcionalidades em aplicativos web. Colaboro com outras equipes para identificar oportunidades de automação.</p> 
-</div> 
-<div> 
-  <h2>Formação</h2> 
-  <ul> 
-    <li>Análise e Desenvolvimento de Sistemas - Cursando</li> 
-    <li>Técnico em Eletrotécnica - Cursando</li> 
-  </ul> 
-</div> 
-  <div> 
-  <h2>Redes Sociais/Contato</h2> 
-  <a href="https://www.instagram.com/1gorjuan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:igor51juan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-rocha-5b3700248" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-  
+
+---
+
+⭐ *Sempre aberto a aprender, colaborar e participar de novos projetos!*
