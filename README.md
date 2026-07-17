@@ -23,13 +23,13 @@
 ## 🧭 Sobre mim
 
 ```yaml
-nome: Igor Juan
-formacao: Análise e Desenvolvimento de Sistemas (em andamento)
-formacao_tecnica: Técnico em Eletrotécnica
-cursando: Engenharia Elétrica
-foco_atual: Python, Redes e Desenvolvimento Web
-empresa: Neoenergia Pernambuco
-cargo: Estagiário em Eletrotécnica
+Nome: Igor Juan
+Formacao: Análise e Desenvolvimento de Sistemas
+Formacao_tecnica: Técnico em Eletrotécnica
+Cursando: Engenharia Elétrica
+Foco_atual: Python, Redes e Desenvolvimento Web
+Empresa: Neoenergia Pernambuco
+Eargo: Técnico em Eletrotécnica
 ```
 
 Profissional em formação, transitando entre **tecnologia** e **elétrica** — unindo automação, desenvolvimento de soluções internas e boas práticas de rede/segurança no dia a dia.
