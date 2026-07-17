@@ -75,8 +75,6 @@ Profissional em formação, transitando entre **tecnologia** e **elétrica** —
 
 </div>
 
-> ℹ️ Troque `1gorjuan` pelo seu usuário exato do GitHub caso os cards acima não carreguem — os widgets usam o login do GitHub, não o do Instagram.
-
 <br/>
 
 ## 📬 Contato
